@@ -54,9 +54,6 @@ SOFTWARE.
 
 File Structure:
 
-images/pacman1
-images/pacman2
-images/pacman3
-images/pacman4
-Index.html
-pacmen.js
+index.html
+eyes.js
+styles.css
